@@ -63,9 +63,9 @@ streamlit run app.py
 
 ## 👤 Kontributor
 
-- Nama: _(isi nama Anda)_
-- NIM: _(isi NIM Anda)_
-- Kelas: _(isi kelas Anda)_
+- Nama: _(widya ohibor)_
+- NIM: _(20240040250)_
+- Kelas: _(TI24J)_
 
 ## 📄 Lisensi
 
